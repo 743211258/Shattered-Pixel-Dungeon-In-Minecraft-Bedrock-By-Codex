@@ -1,0 +1,12 @@
+{
+  "format_version": 2,
+  "header": {"name": "SPDIM Bedrock Behavior", "description": "Bedrock port of SPDIM", "uuid": "c28e8d90-f9c0-4630-89b0-9a8b9719ff81", "version": [1, 0, 0], "min_engine_version": [1, 26, 0]},
+  "modules": [
+    {"type": "data", "uuid": "4cbeac01-e8a1-4dbe-8794-89ecc75d5510", "version": [1, 0, 0]},
+    {"type": "script", "language": "javascript", "uuid": "c9b14d49-6c09-4887-916f-a6c62733fbd8", "version": [1, 0, 0], "entry": "scripts/main.js"}
+  ],
+  "dependencies": [
+    {"uuid": "d2bbc2a8-0b82-4f0d-b26e-9d7c6f1d22d0", "version": [1, 0, 0]},
+    {"module_name": "@minecraft/server", "version": "2.10.0"}
+  ]
+}

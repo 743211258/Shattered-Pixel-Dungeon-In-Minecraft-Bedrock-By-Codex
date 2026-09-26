@@ -1,0 +1,10 @@
+item.spdim:wand_of_blast_wave.name=冲击波法杖
+item.spdim:wand_of_lightning.name=雷霆法杖
+item.spdim:wand_of_fireblast.name=焰浪法杖
+item.spdim:wand_of_regrowth.name=再生法杖
+item.spdim:timekeepers_hourglass.name=时光沙漏
+item.spdim:chalice_of_blood.name=蓄血圣杯
+item.spdim:dried_rose.name=干枯玫瑰
+item.spdim:master_thieves_armband.name=神偷袖章
+itemGroup.name.wand=法杖
+itemGroup.name.artifact=神器

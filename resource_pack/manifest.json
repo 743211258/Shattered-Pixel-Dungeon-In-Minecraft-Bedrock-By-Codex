@@ -1,0 +1,5 @@
+{
+  "format_version": 2,
+  "header": {"name": "SPDIM Bedrock Resources", "description": "Textures and translations for SPDIM", "uuid": "d2bbc2a8-0b82-4f0d-b26e-9d7c6f1d22d0", "version": [1, 0, 0], "min_engine_version": [1, 26, 0]},
+  "modules": [{"type": "resources", "uuid": "0d245663-d744-48a5-9ddd-eb2eb7ba9bb8", "version": [1, 0, 0]}]
+}

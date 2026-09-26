@@ -1,0 +1,14 @@
+{
+  "resource_pack_name": "spdim",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "spdim_wand_of_blast_wave": {"textures": "textures/items/wand_of_blast_wave"},
+    "spdim_wand_of_fireblast": {"textures": "textures/items/wand_of_fireblast"},
+    "spdim_wand_of_lightning": {"textures": "textures/items/wand_of_lightning"},
+    "spdim_wand_of_regrowth": {"textures": "textures/items/wand_of_regrowth"},
+    "spdim_chalice_of_blood": {"textures": "textures/items/chalice_of_blood"},
+    "spdim_timekeepers_hourglass": {"textures": "textures/items/timekeepers_hourglass"},
+    "spdim_dried_rose": {"textures": "textures/items/dried_rose"},
+    "spdim_master_thieves_armband": {"textures": "textures/items/master_thieves_armband"}
+  }
+}

@@ -1,0 +1,10 @@
+item.spdim:wand_of_blast_wave.name=Wand of Blast Wave
+item.spdim:wand_of_lightning.name=Wand of Lightning
+item.spdim:wand_of_fireblast.name=Wand of Fireblast
+item.spdim:wand_of_regrowth.name=Wand of Regrowth
+item.spdim:timekeepers_hourglass.name=Timekeeper's Hourglass
+item.spdim:chalice_of_blood.name=Chalice of Blood
+item.spdim:dried_rose.name=Dried Rose
+item.spdim:master_thieves_armband.name=Master Thieve's Armband
+itemGroup.name.wand=Wands
+itemGroup.name.artifact=Artifacts
