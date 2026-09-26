@@ -1,0 +1,16 @@
+{
+  "name": "spdim-bedrock",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc && node tools/validate.mjs && node tools/package.mjs",
+    "typecheck": "tsc --noEmit",
+    "package": "node tools/package.mjs",
+    "validate": "node tools/validate.mjs"
+  },
+  "devDependencies": {
+    "@minecraft/server": "2.10.0",
+    "typescript": "^5.9.3"
+  }
+}

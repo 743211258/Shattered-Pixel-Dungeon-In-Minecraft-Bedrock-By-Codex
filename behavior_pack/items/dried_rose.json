@@ -1,0 +1,1 @@
+{"format_version":"1.21.110","minecraft:item":{"description":{"identifier":"spdim:dried_rose","menu_category":{"category":"equipment","group":"itemGroup.name.artifact"}},"components":{"minecraft:icon":"spdim_dried_rose","minecraft:display_name":{"value":"item.spdim.dried_rose.name"},"minecraft:max_stack_size":1,"minecraft:hand_equipped":true,"spdim:dried_rose":{}}}}
